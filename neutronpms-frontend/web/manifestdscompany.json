@@ -1,0 +1,18 @@
+{
+    "name": "Ds Company",
+    "short_name": "Ds Company",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "The cutting edge PMS for all.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/IconDS-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}

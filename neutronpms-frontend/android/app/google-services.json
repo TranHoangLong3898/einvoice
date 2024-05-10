@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "217435102298",
+    "project_id": "neutron-pms",
+    "storage_bucket": "neutron-pms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217435102298:android:c5459ef768b82bf10fcc63",
+        "android_client_info": {
+          "package_name": "com.neutron.onepms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217435102298-mk6psr6ocl29bjt7p6h1vtg9bv53l2bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neutron.onepms",
+            "certificate_hash": "50eb9ceb858c4b0ceecc9c5f0f626bf7232e4ee1"
+          }
+        },
+        {
+          "client_id": "217435102298-i2j0oo2a4uh9ltcue0orjdl5l243rr75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYc-ohEVW-SXCsFwxXX0DtiEfD1x6MSPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217435102298-i2j0oo2a4uh9ltcue0orjdl5l243rr75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "217435102298-dmt90c1rmhmkojjfbur5stldu5065kn5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ihotel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

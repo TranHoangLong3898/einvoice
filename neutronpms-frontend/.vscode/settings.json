@@ -1,0 +1,7 @@
+{
+    "cSpell.enableFiletypes": [
+        "!dart"
+    ],
+
+    "dart.flutterSdkPath": "E:\\flutter\\3.13.9\\flutter\\bin"
+}
